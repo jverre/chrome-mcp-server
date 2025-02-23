@@ -1,0 +1,12 @@
+Don't edit the README.md file.
+
+We are using FastAPI to build the server.
+
+## Development rules
+
+The goal of this project is to learn about the MCP protocol and how it works, it is not to write a production ready server. As such,
+always focus on simplicity and readability over performance and completeness. This also means we do not need to follow all best-practices
+and instead focus on having just a small number of files that are easy to understand.
+
+Let's refactor the code to make it more readable and easier to understand. For now, we are implementing just a simple tool that retruns
+the input to the user. We will focus on adding more features later.
