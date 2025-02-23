@@ -8,10 +8,7 @@ We are building a server that will be used to interact with Chrome. There are tw
 > [!NOTE]
 > This is not a reference implementation of the MCP protocol, this was a learning exercise to better understand the protocol and how it works.
 
-This project provides two different implementations:
-
-1. Demo implementation: Thsis is a simple implementation of the MCP protocol meant as a learning exercise.
-2. App implementation: This is a more robust implementation that we will use in Cursor.
+A more robust implementation is located in the `app` folder.
 
 ## Demo implementation
 
